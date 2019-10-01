@@ -12,4 +12,6 @@ function gerador(){ //função responsável por gerar 6 dezenas ao pressionar o 
 	document.getElementById('5').innerHTML = loteria + 1;
 	var loteria = Math.floor(Math.random() * 60);
 	document.getElementById('6').innerHTML = loteria + 1;
+	var loteria = Math.floor(Math.random() * 70);
+	document.getElementById('7').innerHTML = loteria + 2;
 }
