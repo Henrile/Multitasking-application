@@ -16,6 +16,7 @@ p{
     padding: 10px;
     font-size: 20pt;
 }
+/*Thomas é feio*/
 body {
     background-color: rgb(24, 24, 26);
 }
@@ -41,7 +42,7 @@ div#cabeca-direita {
     position: absolute;
 }
 div#navegacao {
-    width: 1200px;
+    width: 1250px;
     height: 60px;
     background-color: rgb(26, 223, 43);
     position: absolute;
